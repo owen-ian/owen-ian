@@ -8,6 +8,11 @@
 
 </div>
 
+# About me.
+I'm Owen Ian Garnier, 25 years old, study "Software Engineer".
+My hobbies are reading fantasy novels (Sarah J. Maas), compete and win on duolingo, and improve my culinary skills (coffee, cocktails, sauces and desserts). YES!!, the 25 years old fell fucking hard me. in the good and bad sense, I'm evicted. XD Joke joke  
+
+
 ## 🤓 Technologies i use.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
