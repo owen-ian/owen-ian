@@ -9,7 +9,7 @@
 </div>
 
 # About me
-🔹 Software engineering student, focused on data science, mathematics, resource management, and low-level languages.  
+🔹 I am a student in "software engineering", looking to specialize in mathematics, resource management, optimization and data science.  
 🔹 I seek to apply my knowledge to solve complex problems and contribute to technological advancement.  
 🔹 Speak Spanish (native of Argentina), Portuguese, and English.
 
