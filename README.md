@@ -1,4 +1,4 @@
-## Hey! Nice to see you. Welcome to me GitHub profile.
+# Hey! Nice to see you. Welcome to me GitHub profile.
 ![Banner de Owen-Ian](Portada3.png)
 
 <div id="badges">
@@ -9,36 +9,36 @@
 </div>
 
 # About me.
-I'm Owen Ian Garnier, 25 years old, study "Software Engineer".
-My hobbies are reading fantasy novels (Sarah J. Maas), compete and win on duolingo, and improve my culinary skills (coffee, cocktails, sauces and desserts). YES!!, the 25 years old fell fucking hard me. in the good and bad sense, I'm evicted. XD Joke joke  
+🔹 Software engineering student, focused on data science, mathematics, resource management, and low-level languages.
+🔹 I seek to apply my knowledge to solve complex problems and contribute to technological advancement.
+🔹 Speak Spanish (native of Argentina), Portuguese, and English.
 
-
-## 🤓 Technologies i use.
+# 🤓 Technologies i use.
 #### Web Developer
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 💖 Technologies i am learning.
-#### Software engineer
+# 💖 Technologies i am learning.
+### Software engineer
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-#### Data science
+### Data science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-#### Data Base
+### Data Base
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-#### Cloud
+### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
