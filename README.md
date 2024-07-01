@@ -9,9 +9,10 @@
 </div>
 
 # About me
-- 🔹 Software engineering student, focused on data science, mathematics, resource management, and low-level languages.
-- 🔹 I seek to apply my knowledge to solve complex problems and contribute to technological advancement.
-- 🔹 Speak Spanish (native of Argentina), Portuguese, and English.
+<span>🔹 Software engineering student, focused on data science, mathematics, resource management, and low-level languages.</span>
+<span>🔹 I seek to apply my knowledge to solve complex problems and contribute to technological advancement.</span>
+<span>🔹 Speak Spanish (native of Argentina), Portuguese, and English.</span>
+
 
 # 🤓 Technologies i use.
 #### Web Developer
