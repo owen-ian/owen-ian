@@ -9,9 +9,9 @@
 </div>
 
 # About me
-🔹 I am a student of "software engineering".
-🔹 Here I will upload projects about my studies.
-🔹 I am currently learning Rust and Julia lenguajes.
+🔹 I am a student of "software engineering".  
+🔹 Here I will upload projects about my studies.  
+🔹 I am currently learning Rust and Julia lenguajes.  
 
 # I am currently learning. 🧠🦀📚🐍
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
