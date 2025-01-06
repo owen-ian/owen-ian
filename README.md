@@ -10,11 +10,11 @@
 
 # About me
 🔹 Study "software engineering" in the area of embedded systems.  
-🔹 I speak Spanish (native of Argentina), Portuguese and English.  
+🔹 I speak Spanish, Portuguese and English.  
 🔹 I live in Rosario, Santa fe, Argentina.  
 
 # Currently learning. 🦀🧠
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23FFA500.svg?style=for-the-badge&logo=rust&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # I Also interested in. 💾 (but not for now haha)
