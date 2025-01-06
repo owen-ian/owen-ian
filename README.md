@@ -9,17 +9,16 @@
 </div>
 
 # About me
-🔹 I am a student of "software engineering".  
-🔹 Here I will upload projects about my studies.  
-🔹 I speak Spanish (native of Argentina) Portuguese and English.  
+🔹 Study "software engineering" in the area of embedded systems.  
+🔹 I speak Spanish (native of Argentina), Portuguese and English.  
+🔹 I live in Rosario, Santa fe, Argentina.  
 
-# I am currently learning. 🦀🧠📚🐍
+# Currently learning. 🦀🧠
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Later I will study about databases. 💾
+# I Also interested in. 💾 (but not for now haha)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
