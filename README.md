@@ -10,10 +10,10 @@
 [![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://github.com/)     
 
 ### Pack Office 
-[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/access)     
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=powerpoint&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/word)     
+[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=mega&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/access)     
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=mega&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=mega&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=mega&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/word)     
 
 
 [![Microsoft](https://img.shields.io/badge/Access-373737?style=for-the-badge&logo=MS&labelColor=000000&logoColor=ffffff)](https://github.com/)     
