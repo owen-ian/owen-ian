@@ -11,15 +11,10 @@
 
 ### Pack Office 
 
-
-[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=M&labelColor=000000&logoColor=ffffff)
-[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=none&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/access)     
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=m&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=cube&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=mega&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/word)     
-
-
-[![Microsoft](https://img.shields.io/badge/Access-373737?style=for-the-badge&logo=MS&labelColor=000000&logoColor=ffffff)](https://github.com/)     
+[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=Tmux&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/access)     
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=Tmux&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=Tmux&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=Tmux&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/word)     
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
