@@ -7,7 +7,7 @@
 [![Go](https://img.shields.io/badge/go-0096ff?style=for-the-badge&logo=go&labelColor=000000)](https://go.dev/)     
 [![Julia](https://img.shields.io/badge/Julia-e61ec8?style=for-the-badge&logo=julia&labelColor=000000&logoColor=ebebeb)](https://julialang.org/)     
 [![Git](https://img.shields.io/badge/git-eb4141?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://git-scm.com/)     
-[![GitHub](https://img.shields.io/badge/github-373737.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)     
+[![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://github.com/)     
 
 ### Pack Office 
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/es-ar/microsoft-365/access)     
