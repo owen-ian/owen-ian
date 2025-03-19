@@ -9,16 +9,20 @@
 [![Git](https://img.shields.io/badge/git-eb4141?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://git-scm.com/)     
 [![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://github.com/)     
 
-### Pack Office 
+### Pack Office & Google
 
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-aa2800?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/access)     
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/word)     
+[![Microsoft Hojas De Calculo](https://img.shields.io/badge/Microsoft_Excel-007846?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/excel)     
+[![Microsoft Presentaciones](https://img.shields.io/badge/Microsoft_PowerPoint-d27800?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint)     
+[![Microsoft Documentos](https://img.shields.io/badge/Microsoft_Word-005a96?style=for-the-badge&logo=Tmux&labelColor=000000&logoColor=ffffff)](https://www.microsoft.com/es-ar/microsoft-365/word)     
+
+[![Google Drive](https://img.shields.io/badge/Google_Drive-aa2800?style=for-the-badge&logo=GoogleDrive&labelColor=000000&logoColor=ffffff)](https://drive.google.com/drive)     
+[![Google Hojas De Calculo](https://img.shields.io/badge/Google_Sheets-007846?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/spreadsheets/)     
+[![Google Presentaciones](https://img.shields.io/badge/Google_Slides-d27800?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/presentation/)     
+[![Google Documentos](https://img.shields.io/badge/Google_Docs-005a96?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/document/)     
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ---
