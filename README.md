@@ -1,17 +1,21 @@
 ## Hey, muy buenas! Bienvenido a mi perfil de GitHub.
-![Rustimg](https://github.com/user-attachments/assets/687a47e3-9bc8-4ead-bf24-9202c9a30243)
-
 ---
 
 ### Lenguajes y Herramientas.
-[![Rust](https://img.shields.io/badge/Rust-ff7300?style=for-the-badge&logo=rust&labelColor=000000&logoColor=ffffff)](https://www.rust-lang.org/)    
-[![Go](https://img.shields.io/badge/go-0096ff?style=for-the-badge&logo=go&labelColor=000000&logoColor=ffffff)](https://go.dev/)    
-[![Julia](https://img.shields.io/badge/Julia-e61ec8?style=for-the-badge&logo=julia&labelColor=000000&logoColor=ffffff)](https://julialang.org/)    
-[![Git](https://img.shields.io/badge/git-eb4141?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://git-scm.com/)    
-[![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=GitHub&labelColor=000000&logoColor=ffffff)](https://github.com/)    
-[![GitHub Copilot](https://img.shields.io/badge/Copilot-8957E5?style=for-the-badge&logo=GitHubCopilot&labelColor=000000&logoColor=ffffff)](https://github.com/)    
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=v&labelColor=000000&logoColor=ffffff)](https://github.com/)    
-
+[![Rustimg](https://github.com/user-attachments/assets/687a47e3-9bc8-4ead-bf24-9202c9a30243)](https://www.rust-lang.org/)
+<!-- [![Rust](https://img.shields.io/badge/Rust-ff7300?style=for-the-badge&logo=rust&labelColor=000000&logoColor=ffffff)](https://www.rust-lang.org/) -->
+[![goimg](https://github.com/user-attachments/assets/8eb748fe-ffef-435c-9dee-7db23ba9b063)](https://go.dev/)
+<!-- [![Go](https://img.shields.io/badge/go-0096ff?style=for-the-badge&logo=go&labelColor=000000&logoColor=ffffff)](https://go.dev/) -->
+[![juliaimg](https://github.com/user-attachments/assets/0567128b-5553-487d-adc2-ec49b2eaec29)](https://julialang.org/)
+<!-- [![Julia](https://img.shields.io/badge/Julia-e61ec8?style=for-the-badge&logo=julia&labelColor=000000&logoColor=ffffff)](https://julialang.org/) -->
+[![gitimg](https://github.com/user-attachments/assets/e3ae740f-60bf-44ee-9570-e197fa87727c)](https://git-scm.com/)
+<!-- [![Git](https://img.shields.io/badge/git-eb4141?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://git-scm.com/) -->
+[![githubimg](https://github.com/user-attachments/assets/06b51a34-f049-4724-a51a-fc9e4281bbe7)](https://github.com/)
+<!-- [![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=GitHub&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
+[![copilotimg](https://github.com/user-attachments/assets/cda3971f-6471-4b75-8d29-6578456d6166)](https://copilot.cloud.microsoft/)
+<!-- [![GitHub Copilot](https://img.shields.io/badge/Copilot-8957E5?style=for-the-badge&logo=GitHubCopilot&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
+[![VsCodeimg](https://github.com/user-attachments/assets/30ca195f-ef6d-4939-b526-24b580ad37af)](https://code.visualstudio.com/)
+<!-- [![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=v&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
 ---
 
 ### Pack Office & Google
