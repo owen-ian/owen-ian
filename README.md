@@ -1,21 +1,19 @@
 ## Hey, muy buenas! Bienvenido a mi perfil de GitHub.
 ---
 
-### Lenguajes y Herramientas.
-[![Rustimg](https://github.com/user-attachments/assets/687a47e3-9bc8-4ead-bf24-9202c9a30243)](https://www.rust-lang.org/)
-<!-- [![Rust](https://img.shields.io/badge/Rust-ff7300?style=for-the-badge&logo=rust&labelColor=000000&logoColor=ffffff)](https://www.rust-lang.org/) -->
-[![goimg](https://github.com/user-attachments/assets/8eb748fe-ffef-435c-9dee-7db23ba9b063)](https://go.dev/)
-<!-- [![Go](https://img.shields.io/badge/go-0096ff?style=for-the-badge&logo=go&labelColor=000000&logoColor=ffffff)](https://go.dev/) -->
-[![juliaimg](https://github.com/user-attachments/assets/0567128b-5553-487d-adc2-ec49b2eaec29)](https://julialang.org/)
-<!-- [![Julia](https://img.shields.io/badge/Julia-e61ec8?style=for-the-badge&logo=julia&labelColor=000000&logoColor=ffffff)](https://julialang.org/) -->
-[![gitimg](https://github.com/user-attachments/assets/e3ae740f-60bf-44ee-9570-e197fa87727c)](https://git-scm.com/)
-<!-- [![Git](https://img.shields.io/badge/git-eb4141?style=for-the-badge&logo=git&labelColor=000000&logoColor=ffffff)](https://git-scm.com/) -->
-[![githubimg](https://github.com/user-attachments/assets/06b51a34-f049-4724-a51a-fc9e4281bbe7)](https://github.com/)
-<!-- [![GitHub](https://img.shields.io/badge/github-373737?style=for-the-badge&logo=GitHub&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
-[![copilotimg](https://github.com/user-attachments/assets/cda3971f-6471-4b75-8d29-6578456d6166)](https://copilot.cloud.microsoft/)
-<!-- [![GitHub Copilot](https://img.shields.io/badge/Copilot-8957E5?style=for-the-badge&logo=GitHubCopilot&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
-[![VsCodeimg](https://github.com/user-attachments/assets/30ca195f-ef6d-4939-b526-24b580ad37af)](https://code.visualstudio.com/)
-<!-- [![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=v&labelColor=000000&logoColor=ffffff)](https://github.com/) -->
+### Lenguajes y Herramientas Dev.
+[![Rust-lang](https://github.com/user-attachments/assets/c51211ca-5efd-4e40-9893-99e122403c0d)](https://www.rust-lang.org/)
+<!-- Separador -->
+[![Go-lang](https://github.com/user-attachments/assets/c8fbd3de-0237-4e8f-9bd0-7e0a6c2b3585)](https://go.dev/)
+<!-- Separador -->
+[![Julia-lang](https://github.com/user-attachments/assets/52a693cc-717f-45d2-90b0-e5aeb30a947d)](https://julialang.org/)
+<!-- Separador -->
+[![Git-lang](https://github.com/user-attachments/assets/222cd1ea-4c51-4d6d-9a50-4980a05ac7e1)](https://git-scm.com/)
+<!-- Separador -->
+[![Git-Hub-Web](https://github.com/user-attachments/assets/6c778eed-9180-435c-b6c6-96f6a5ddf599)](https://github.com/)
+<!-- Separador -->
+[![Git-Hub-Copilot-IA](https://github.com/user-attachments/assets/30df3f5d-1340-4330-bf61-8e614c27ccdd)](https://copilot.cloud.microsoft/)
+<!-- Separador -->
 ---
 
 ### Pack Office & Google
