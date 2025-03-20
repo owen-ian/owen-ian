@@ -18,12 +18,12 @@
 
 ### Pack Office & Google
 
-| **Herramientas Microsoft** | **Herramientas Google** |
+| **Herramientas De Oficina** | **Herramientas De Oficina** |
 |----------------------|------------------|
-| [![BadgeWindowsAccess](https://github.com/user-attachments/assets/e9a87c90-8af4-4b24-a742-d3353da7a1c9)](https://www.microsoft.com/es-ar/microsoft-365/access) | [![Google Drive](https://img.shields.io/badge/Google_Drive-aa2800?style=for-the-badge&logo=GoogleDrive&labelColor=000000&logoColor=ffffff)](https://drive.google.com/drive) |
-| [![BadgeWindowsExcel](https://github.com/user-attachments/assets/07cab41b-f910-4001-a72f-41edd056c0c9)](https://www.microsoft.com/es-ar/microsoft-365/excel) | [![Google Hojas De Calculo](https://img.shields.io/badge/Google_Sheets-007846?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/spreadsheets/) |
-| [![BadgeWindowsPowerPoint](https://github.com/user-attachments/assets/ddcfd507-cf44-4398-929d-13bb2618cf59)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint) | [![Google Presentaciones](https://img.shields.io/badge/Google_Slides-d27800?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/presentation/) |
-| [![BadgeWindowsWord](https://github.com/user-attachments/assets/8a66680c-dcd5-4dea-8a53-9a1ea7124cfe)](https://www.microsoft.com/es-ar/microsoft-365/word) | [![Google Documentos](https://img.shields.io/badge/Google_Docs-005a96?style=for-the-badge&logo=Google&labelColor=000000&logoColor=ffffff)](https://docs.google.com/document/) |
+| [![BadgeWindowsAccess](https://github.com/user-attachments/assets/e9a87c90-8af4-4b24-a742-d3353da7a1c9)](https://www.microsoft.com/es-ar/microsoft-365/access) |  |
+| [![BadgeWindowsExcel](https://github.com/user-attachments/assets/07cab41b-f910-4001-a72f-41edd056c0c9)](https://www.microsoft.com/es-ar/microsoft-365/excel) | [![BadgeGoogleSheets](https://github.com/user-attachments/assets/485f788a-1bf2-4eac-b312-a490ccaf1ca4)](https://docs.google.com/spreadsheets/) |
+| [![BadgeWindowsPowerPoint](https://github.com/user-attachments/assets/ddcfd507-cf44-4398-929d-13bb2618cf59)](https://www.microsoft.com/es-ar/microsoft-365/powerpoint) |  |
+| [![BadgeWindowsWord](https://github.com/user-attachments/assets/8a66680c-dcd5-4dea-8a53-9a1ea7124cfe)](https://www.microsoft.com/es-ar/microsoft-365/word) | [![BadgeGoogleDocs](https://github.com/user-attachments/assets/68478b33-c4b2-4d4f-90f0-57958aeb8c69)](https://docs.google.com/document/) |
 
 <!-- Aqui empieza el texto invisible
 ---
