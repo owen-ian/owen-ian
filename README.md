@@ -9,13 +9,16 @@
 [![Git-lang](https://github.com/user-attachments/assets/222cd1ea-4c51-4d6d-9a50-4980a05ac7e1)](https://git-scm.com/) <!-- Separador --> [![Git-Hub-Web](https://github.com/user-attachments/assets/6c778eed-9180-435c-b6c6-96f6a5ddf599)](https://github.com/) <!-- Separador --> [![Git-Hub-Copilot-IA](https://github.com/user-attachments/assets/30df3f5d-1340-4330-bf61-8e614c27ccdd)](https://github.com/features/copilot)
 <!-- Separador -->
 ---
-### Sistemas embebidos.
+### Sistemas integrados.
+📘 Lamentablemente no utilizo Rust en sistemas embebidos, sino C++ el cual es un lenguaje que no vale una mierda.
 [![Espressif](https://github.com/user-attachments/assets/bef131ca-05d5-47d1-a0f8-d1326154ec9a)](https://www.espressif.com/) 
 [![Arduino](https://github.com/user-attachments/assets/86ec61ed-fdb6-4c75-8df6-d89bea7dcb7e)](https://www.arduino.cc/)
 
 ---
 ### Desarrollo de videojuegos.
-[![Bevy](https://img.shields.io/badge/Bevy-373737?style=for-the-badge&logo=bevy&labelColor=000000&logoColor=ffffff)](https://bevyengine.org/)
+📖 Bevy no es un Engine, sino una libreria, y UE5 tiene tantos errores que pffff, c++ es una mierda vuelvo a decir :)
+[![Bevy](https://github.com/user-attachments/assets/1fba8797-7f95-4b5e-9fec-f346b60e87af)](https://bevyengine.org/)
+[![UnrealEngine5](https://github.com/user-attachments/assets/f6aeba3b-ea3f-4527-ad77-5fcd69cb7916)](https://www.unrealengine.com/es-ES)
 
 ---
 ### Pack Office & Google
@@ -29,6 +32,7 @@
 
 ---
 ### Sistemas de redes, comunicacion y bases de datos.
+Nota: debo actualizar mis estudios en estos softwares.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
