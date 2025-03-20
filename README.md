@@ -2,17 +2,11 @@
 ---
 
 ### Lenguajes y Herramientas Dev.
-[![Rust-lang](https://github.com/user-attachments/assets/c51211ca-5efd-4e40-9893-99e122403c0d)](https://www.rust-lang.org/)
+📚 Soy estudiante autodidacta en desarrollo de software, especializado en lenguajes modernos y de alto rendimiento como Rust, Go y Julia. Mi interés principal radica en la computación de alto rendimiento y las redes de comunicación, junto con sistemas integrados. Actualmente, colaboro en un proyecto híbrido de atención a emergencias, donde aporto de forma intelectual como asistencial, contribuyendo al diseño de soluciones innovadoras y efectivas para escenarios críticos.  
+<!-- Separador -->  
+[![Rust-lang](https://github.com/user-attachments/assets/c51211ca-5efd-4e40-9893-99e122403c0d)](https://www.rust-lang.org/) <!-- Separador --> [![Go-lang](https://github.com/user-attachments/assets/c8fbd3de-0237-4e8f-9bd0-7e0a6c2b3585)](https://go.dev/) <!-- Separador --> [![Julia-lang](https://github.com/user-attachments/assets/52a693cc-717f-45d2-90b0-e5aeb30a947d)](https://julialang.org/)
 <!-- Separador -->
-[![Go-lang](https://github.com/user-attachments/assets/c8fbd3de-0237-4e8f-9bd0-7e0a6c2b3585)](https://go.dev/)
-<!-- Separador -->
-[![Julia-lang](https://github.com/user-attachments/assets/52a693cc-717f-45d2-90b0-e5aeb30a947d)](https://julialang.org/)
-<!-- Separador -->
-[![Git-lang](https://github.com/user-attachments/assets/222cd1ea-4c51-4d6d-9a50-4980a05ac7e1)](https://git-scm.com/)
-<!-- Separador -->
-[![Git-Hub-Web](https://github.com/user-attachments/assets/6c778eed-9180-435c-b6c6-96f6a5ddf599)](https://github.com/)
-<!-- Separador -->
-[![Git-Hub-Copilot-IA](https://github.com/user-attachments/assets/30df3f5d-1340-4330-bf61-8e614c27ccdd)](https://github.com/features/copilot)
+[![Git-lang](https://github.com/user-attachments/assets/222cd1ea-4c51-4d6d-9a50-4980a05ac7e1)](https://git-scm.com/) <!-- Separador --> [![Git-Hub-Web](https://github.com/user-attachments/assets/6c778eed-9180-435c-b6c6-96f6a5ddf599)](https://github.com/) <!-- Separador --> [![Git-Hub-Copilot-IA](https://github.com/user-attachments/assets/30df3f5d-1340-4330-bf61-8e614c27ccdd)](https://github.com/features/copilot)
 <!-- Separador -->
 ---
 
